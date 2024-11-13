@@ -55,7 +55,6 @@ export const ShopContextProvider = ({children}) => {
     }
 
     useEffect(()=>{
-        console.log(cartItems);
         
     },[cartItems])
 
