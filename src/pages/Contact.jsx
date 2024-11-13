@@ -16,7 +16,7 @@ export const Contact = () => {
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
           <p className='text-gray-500'>54709 Model Town <br/> Street 350, Yamunanagar, India</p>
           <p className='text-gray-500'>Tel: (415) 555-0132 <br /> admin@DripStore.com</p>
-          <p className='font-semibold text-xl text-gray-600'>Careers at Forever</p>
+          <p className='font-semibold text-xl text-gray-600'>Careers at Drip Store</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore Jobs</button>
         </div>  
