@@ -12,8 +12,6 @@ export const LatestCollection = () => {
     setLatestProducts(products.slice(0, 10)); // Set the first 10 products from the products array
   }, [products]); // The effect runs when the products array changes
 
-  console.log(products); // Logging products to inspect the data (for debugging)
-
   return (
     <div className="my-10">
       {/* Section Title */}
